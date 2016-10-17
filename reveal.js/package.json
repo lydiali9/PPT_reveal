@@ -2,7 +2,7 @@
   "name": "reveal.js",
   "version": "3.3.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "homepage": "https://github.com/lydiali9/PPT_reveal",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -10,13 +10,13 @@
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Lynn Li",
+    "email": "648823000@qq.com",
+    "web": "lydiali9.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@github.com:lydiali9/PPT_reveal.git"
   },
   "engines": {
     "node": "~4.1.1"
