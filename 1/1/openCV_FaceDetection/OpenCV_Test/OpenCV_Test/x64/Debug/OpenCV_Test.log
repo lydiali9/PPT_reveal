@@ -1,0 +1,5 @@
+﻿  OpenCV_Test.cpp
+c:\users\lli508\documents\visual studio 2015\projects\opencv_test\opencv_test\opencv_test.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lli508\documents\visual studio 2015\projects\opencv_test\opencv_test\opencv_test.cpp(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OpenCV_Test.vcxproj -> C:\Users\lli508\documents\visual studio 2015\Projects\OpenCV_Test\x64\Debug\OpenCV_Test.exe
+  OpenCV_Test.vcxproj -> C:\Users\lli508\documents\visual studio 2015\Projects\OpenCV_Test\x64\Debug\OpenCV_Test.pdb (Full PDB)

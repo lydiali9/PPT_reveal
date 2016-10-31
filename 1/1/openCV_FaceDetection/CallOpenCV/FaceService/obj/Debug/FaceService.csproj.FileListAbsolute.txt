@@ -1,0 +1,8 @@
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\bin\Debug\FaceService.dll
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\bin\Debug\FaceService.pdb
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\obj\Debug\FaceService.csprojResolveAssemblyReference.cache
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\obj\Debug\FaceService.dll
+C:\Users\fgao021\Desktop\MSAzure\camera\FaceService\obj\Debug\FaceService.pdb
